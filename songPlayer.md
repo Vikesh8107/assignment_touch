@@ -1,4 +1,4 @@
-Touch Assignment
+# Assignment Touch
 
 ---
 
@@ -33,7 +33,7 @@ Create a functional **Song Player Application** using the tech stack: **Next.js,
      - A larger album cover.  
      - A play button.  
 
-4. **Search Functionality**:  
+4. **Search Functionality**: (optional) 
    - Allow users to search for songs by title or artist.  
    - Implement a search bar in the UI that filters results dynamically.  
 

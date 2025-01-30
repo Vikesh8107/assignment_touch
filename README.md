@@ -4,6 +4,7 @@
 ---
 
 ### **Assignment: Build a News Blog Application**  
+### **Assignment: Build a News Blog Application**  
 
 #### **Objective**  
 Create a simple yet functional **news blog application** using the given tech stack: **Next.js, TypeScript, and Tailwind CSS**. The app will fetch data from a news API and display it in a blog-like format with proper UI.
